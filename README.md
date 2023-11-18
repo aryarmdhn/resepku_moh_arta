@@ -1,6 +1,10 @@
 
 ## Cara Penginstallan
 
+
+Download Database dibawah ini:
+https://drive.google.com/drive/folders/1yKxYlCEM1ByL1jhqB4cVacLP5zqT8-Cn?usp=sharing
+
 CARA PENGINSTALAN PROJECT
 
 ### Langkah 1: Clone Repository dari GitHub
